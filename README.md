@@ -399,7 +399,7 @@ flutter build ios --release
 
 ## 🔗 Liên Kết
 
-- 📧 Email: duybaot105@gmail.com
+- 📧 Email: baotranduy666666@gmail.com
 - 🔗 LinkedIn: [Duy Bảo](https://linkedin.com/in/duybaot105)
 - 💻 GitHub: [@DevBaor](https://github.com/DevBaor)
 
