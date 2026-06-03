@@ -320,7 +320,7 @@ theme: ThemeData(
 
 ---
 
-## 🔧 Build & Deployment
+## 🔧 Build
 
 ### Build APK (Android)
 ```bash
@@ -342,18 +342,6 @@ flutter build ios --release
 ```bash
 flutter build web --release
 ```
-
-### Deploy lên Play Store / App Store
-```bash
-# Android Play Store
-flutter build appbundle --release
-# Upload tại: Google Play Console
-
-# iOS App Store
-flutter build ios --release
-# Upload qua Xcode hoặc Transporter
-```
-
 ---
 
 ## ❓ Troubleshooting
