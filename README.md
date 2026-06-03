@@ -393,7 +393,6 @@ flutter build ios --release
 ## 👨‍💻 Người Phát Triển
 
 - **Duy Bảo (DevBaor)** - Lead Developer
-- **Nhóm 4** - Development Team
 
 ---
 
